@@ -1,3 +1,13 @@
+# Angular---The-Complete-Guide-2024-Edition-Part-1
+This is the first repo for the course: 'Angular - The Complete Guide (2024 Edition)'
+
+#### Course Link - [Angular - The Complete Guide (2024 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+### File Structure
+1. **basics.ts** - TypeScript basics
+2. **with.ts** - TypeScript add function
+3. **with.js** - Compiled JS file of _with.ts_
+
 # FirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
